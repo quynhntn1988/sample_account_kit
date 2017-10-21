@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/node_modules/react-native-facebook-account-kit/ios/RNAccountKitViewController.m \
+  RNAccountKitViewController.h \
+  ./AccountKit.framework/Modules/module.modulemap \
+  ./AccountKit.framework/Headers/AKFTheme.h \
+  ./AccountKit.framework/Headers/AKFSettings.h \
+  ./AccountKit.framework/Headers/AKFPhoneNumber.h \
+  ./AccountKit.framework/Headers/AKFErrorDetail.h \
+  ./AccountKit.framework/Headers/AKFError.h \
+  ./AccountKit.framework/Headers/AKFTheming.h \
+  ./AccountKit.framework/Headers/AKFLoginType.h \
+  ./AccountKit.framework/Headers/AKFConfiguring.h \
+  ./AccountKit.framework/Headers/AKFTextPosition.h \
+  ./AccountKit.framework/Headers/AKFLoginFlowState.h \
+  ./AccountKit.framework/Headers/AKFButtonType.h \
+  ./AccountKit.framework/Headers/AKFAdvancedUIManager.h \
+  ./AccountKit.framework/Headers/AKFAdvancedUIManaging.h \
+  ./AccountKit.framework/Headers/AKFViewController.h \
+  ./AccountKit.framework/Headers/AKFResponseType.h \
+  ./AccountKit.framework/Headers/AKFAccountPreferences.h \
+  ./AccountKit.framework/Headers/AKFAccountKit.h \
+  ./AccountKit.framework/Headers/AKFAccount.h \
+  ./AccountKit.framework/Headers/AKFAccessToken.h \
+  ./AccountKit.framework/Headers/AccountKit.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/quynhnntn1988/code/react_native/sample_account_kit/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h
