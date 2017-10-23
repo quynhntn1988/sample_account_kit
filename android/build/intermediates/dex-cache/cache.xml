@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f6411f66dab150f75102ba3432d4a8701b8feac2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_223d5ae4e5617d71b83f19073455c8141bd09669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b83c5a4855ec09391a4d5fac896e2a0732f20458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_1433a91a00cabcec1ab577b9db9845f02c75dc0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_3067bc1ecfb149e9d7380a3966ecd6b2ee7015c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_a2ef1f4e5942919c16a392180ba7d4322743d43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_8e2a788a060cca0240d6f72766576aa6c4f2cfd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_451daa27cadca1e23f90ab4f932f41ac83782661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_e49c3b237c9e33189d8a19fe19dbb04661aa9f49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_e4c38ec20dd6ae74facaaa6147debbd351763f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.android/account-kit-sdk/4.23.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f0d3a0c84eb73fd55228e9dc5471140d6295f7a3">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-account-kit-sdk-4.23.0_b0a57e63bff21f2c2085d4c6cf9ce5e9c39fd638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_7650b32fd6d626e66fe89da72e224ed0cfa4a11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f16b034018f286ecbcfaa08f385849423a676661.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_76e1b7e586749b35db208962521d0b7dc0957cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8506c3621111a2768431e6214403451f29d8f26a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_af3de9d1cb31e28a5cf7e43f7ae1be0af1ce3132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_959c1258228ddb1241ab2f3648c3144b1bc9bce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0b95b92001aa7822ee924f6e7e2710c4e4bd8a46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_e773bd768dd960630885cc6c8dc422be66d0ae8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_62274f37eb41d02ee0005c0acbd5ac63db8e4635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_f08877c9e2cf9096a190af0c904c03bb248f11d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9c5512e40951a2b2d5b74e3b7f91cf40f867c96b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.4_e514c56191c5c66c886240dc99958a4fd7666b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/sample_account_kit/react-native-facebook-account-kit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="177642d86a0b61c1ee37bbc03c3f43c351c96bef">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/sample_account_kit-react-native-facebook-account-kit-unspecified_031ff8fbbbb3863dafc51afba6ce4a6298ef7e0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_1ae00c96ddb1f833341e63b039bf85545c0ed7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_6ee5b58d6c8c6969b91e2dbbe0122e1de0652d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_52c26d415e5998aa0c0c091ab6497f8525048eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_717b92d7f5c8abce4192bdce3d5b2759fe7cc638.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3b92ae00cb987e4ea55c62c80da34e5632abb489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_f835c0d2e1bf2b110ed4e6b748a9e6b3026f0612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_970523d11a935f805ed719b01bdd09f3bb283f46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ded913d9bf341eb01e9887c24b23346e5796d828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_6de8872593aa59a730b36338127649f115eed1e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_95dcfdaaecc4a4e47dc4b6ee6b10fd3a61712a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_20713edbf7d907018a8c011480919cc3487aa299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/quynhnntn1988/code/react_native/sample_account_kit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_feca29c052066ca913439de42c565de1ceec93af.jar" />
+    </item>
+
+</items>

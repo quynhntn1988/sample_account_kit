@@ -9,9 +9,10 @@
   },
   "scripts": {
     "start": "react-native start",
-    "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "test": "node node_modules/jest/bin/jest.js --watch"
+    "android": "react-native run-android",
+    "test": "node node_modules/jest/bin/jest.js --watch",
+    "android-bundle": "react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res && react-native run-android"
   },
   "jest": {
     "preset": "jest-expo"
